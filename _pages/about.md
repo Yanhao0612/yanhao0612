@@ -21,6 +21,6 @@ This website highlights my:
 - 📝 Research Projects  
 - 📷 Photography
 
-📫 [Email me](yanhao_wang@berkeley.edu) 
+📫 Email me: yanhao_wang@berkeley.edu
 
 > _"I use data to untangle public challenges—and turn insights into action."_  
