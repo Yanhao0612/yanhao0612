@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {% if page.author_profile %}
+    {% include author-profile.html %}
+  {% endif %}
+
+  {{ content }}
+
+</div>
