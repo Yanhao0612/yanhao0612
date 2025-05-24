@@ -1,8 +1,6 @@
-# Authors
-
-Name Name:
-  name        : "Shelly Wang"
+default:
+  name        : "Yanhao Wang"
   email       : "yanhao_wang@berkeley.edu"
   bio         : "Graduate student at UC Berkeley"
   avatar      : "/images/profile.png"
-  linkedin    : www.linkedin.com/in/selly-wang
+  linkedin    : "https://www.linkedin.com/in/selly-wang"
